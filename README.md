@@ -42,7 +42,7 @@ If you have any further questions or would like to explore this topic in more de
 
 # Taylor Series Algorithm Tester
 
-This program is designed to test the implementation of the Taylor Series algorithm for calculating trigonometric functions in C. The program runs through all possible angles in the range of -360 to 360 degrees and verifies if there are any errors in the computed values.
+This program in the folder <b>TaylorSeriesRunningTest</b> is designed to test the implementation of the Taylor Series algorithm for calculating trigonometric functions in C. The program runs through all possible angles in the range of -360 to 360 degrees and verifies if there are any errors in the computed values.
 
 ## How it Works
 
