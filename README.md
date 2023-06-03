@@ -78,7 +78,7 @@ By utilizing this program and ensuring the accuracy of the Taylor Series algorit
 
 If you encounter any issues or have further questions, please feel free to reach out.
 
-## <b>ALL THE VERSIONS ARE IN /BIN ALREADY COMPILED WITH GCC AND CODEBLOCKS, UPX AND ZIP WAS USED TO MAKE IT SMALLER. FEEL FREEE TO COMPILE AGAIN!</b>
+## <b>ALL THE VERSIONS ARE ALREADY COMPILED INSIDE THE /DEBUG/BIN FOLDER WITH GCC AND CODEBLOCKS, UPX AND ZIP WAS USED TO MAKE IT SMALLER. FEEL FREEE TO COMPILE AGAIN!</b>
 
 
 ## References
