@@ -40,7 +40,46 @@ The Taylor-Maclaurin series is a valuable tool for approximating trigonometric f
 
 If you have any further questions or would like to explore this topic in more detail, please feel free to reach out.
 
+# Taylor Series Algorithm Tester
+
+This program is designed to test the implementation of the Taylor Series algorithm for calculating trigonometric functions in C. The program runs through all possible angles in the range of -360 to 360 degrees and verifies if there are any errors in the computed values.
+
+## How it Works
+
+The program utilizes the Taylor Series expansions for sine, cosine, and tangent functions to approximate their values. The Taylor Series expansions are implemented in C code, and the program calculates the trigonometric functions using these implementations.
+
+The algorithm tests the accuracy of the implemented Taylor Series by comparing the computed values against the known values of trigonometric functions. The known values are obtained from a trusted mathematical library or predefined lookup tables.
+
+The program iterates through all angles in the range of -360 to 360 degrees, converting them to radians, and calculates the trigonometric functions using the Taylor Series implementations. It then compares the computed values with the known values for each angle.
+
+## Error Verification
+
+The primary objective of this program is to verify the accuracy of the Taylor Series algorithm by detecting any errors in the computed trigonometric function values. The following steps are typically followed for error verification:
+
+1. Compute the trigonometric functions (sine, cosine, and tangent) using the Taylor Series algorithm for each angle in the range.
+2. Obtain the known values of the trigonometric functions using a trusted mathematical library or predefined lookup tables.
+3. Compare the computed values with the known values for each angle.
+4. Check for discrepancies or errors between the computed and known values.
+5. Record any inconsistencies or differences found during the verification process.
+
+If the program does not identify any errors or discrepancies, it provides confidence in the correctness of the implemented Taylor Series algorithm. On the other hand, if errors are detected, it indicates that there might be issues in the implementation that need to be addressed.
+
+## Usage and Results
+
+To use this program, you need to compile and run it in a C environment or compiler. It will output the results of the error verification process, indicating whether any errors were found and providing details on the specific angles or values where discrepancies occurred.
+
+Please note that the execution of this program may take some time due to the large number of angles to be tested. However, it is a crucial step to ensure the accuracy of the Taylor Series algorithm implementation for trigonometric calculations.
+
+## Conclusion
+
+The Taylor Series Algorithm Tester program provides a means to verify the correctness of the implemented Taylor Series algorithm for calculating trigonometric functions. By running the program for all possible angles in the range of -360 to 360 degrees, it performs an extensive error verification process, comparing computed values against known values.
+
+By utilizing this program and ensuring the accuracy of the Taylor Series algorithm, you can have confidence in the correctness of your trigonometric function calculations in C.
+
+If you encounter any issues or have further questions, please feel free to reach out.
+
 ## References
 
 - [Wikipedia: Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
-- [Wolfram MathWorld: Taylor Series](https://mathworld.wolfram.com/TaylorSeries.html)
+- [Trigonometric Functions](https://en.wikipedia.org/wiki/Trigonometric_functions)
+
