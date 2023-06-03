@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685751820 source:c:\users\víctor melo\desktop\taylorseries\taylorseries\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
