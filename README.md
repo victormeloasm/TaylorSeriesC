@@ -1,5 +1,5 @@
 # TaylorSeriesC
-Implementations of Taylor-Maclaurin series to Sine, Cosine and Tangent without using any Math library.
+Implementations of Taylor-Maclaurin series to Sine, Cosine and Tangent calculation in pure C without using any Math library.
 
 # Taylor-Maclaurin Series for Trigonometric Functions
 
